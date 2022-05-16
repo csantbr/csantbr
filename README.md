@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
-<h3 align="center">Backend developer, nerd fascinated by programming and its ability to change the world.</h3>
+<h3 align="center">Software developer, nerd fascinated by programming and its ability to change the world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csantbr&label=Profile%20views&color=0e75b6&style=flat" alt="csantbr" /> </p>
 
