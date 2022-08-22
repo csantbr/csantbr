@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
-<h3 align="center">Software developer, nerd fascinated by programming and its ability to change the world.</h3>
+<h3 align="center">Software engineer, nerd fascinated by programming and its ability to change the world.</h3>
 <h2></h2>
 <p align="center">
   <a href="https://skillicons.dev">
